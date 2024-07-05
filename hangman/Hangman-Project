@@ -1,4 +1,6 @@
 git clone https://github.com/your_username/hangman-project.git
 cd hangman-project
 git add milestone_2.py
+git commit -m "Add milestone_2.py with list of favourite countries"
+git push origin main
 
