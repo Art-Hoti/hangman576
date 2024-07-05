@@ -9,4 +9,7 @@ git push origin main
 git add milestone_2.py
 git commit -m "Add user input for a single letter to milestone_2.py"
 git push origin main
+git add milestone_2.py
+git commit -m "Clean up and ensure single execution of milestone_2.py"
+git push origin main
 
