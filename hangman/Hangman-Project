@@ -3,4 +3,7 @@ cd hangman-project
 git add milestone_2.py
 git commit -m "Add milestone_2.py with list of favourite countries"
 git push origin main
+git add milestone_2.py
+git commit -m "Add random word selection from word_list to milestone_2.py"
+git push origin main
 
